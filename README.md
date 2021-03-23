@@ -2,7 +2,7 @@
 
 - This project is just a Demo.
 - As of now I'm currently studying NextJS and TailwindCSS.
-- Live Demo ***https://next-list-niks.vercel.app/***
+- Live Demo ***https://next-tailniks.vercel.app/***
   ![tailwindcss](https://i.imgur.com/S2KwcfD.png)
   ![tailwindcss](https://i.imgur.com/8ey9EbU.png)
 
